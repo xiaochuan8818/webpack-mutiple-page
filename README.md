@@ -1,2 +1,2 @@
 # webpack-mutiple-page
-webpack多入口开发模板
+webpack基于react多页面开发模板
